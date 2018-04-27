@@ -1,1 +1,1 @@
-# docker_gems
+# Some useful stuff when using dockers
